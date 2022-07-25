@@ -1,6 +1,8 @@
-# Project1 [live link](https://live-class-project1.netlify.app)
+# Project1 [live link](https://css-projects-01.netlify.app/)
 
-- CSS property learn in this project
+## By - Karan Chauhan
+
+- CSS property I learned in this project
     - position properties
     - float property
     - margin and padding
@@ -8,6 +10,6 @@
     - attribute selector
 
 ## Time taken to complete this project
-    - Three hours
+    - 3.5 hours
 
 ![image](./finalAssignment1.png)
